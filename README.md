@@ -8,11 +8,11 @@ Main JSON file, that you need for VIA configurator to work:
 
 ## How work with VIA
 
-First of all you need to flash you Jiran keyboard with correct firmware version (use [QMK toolbox]()).
+First of all you need to flash your Jiran keyboard with correct firmware version (use [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)).
 
-Flash this [HEX file]() if you got version with single color LEDs
+Flash this [HEX file](https://github.com/Ladniy/VIA-Compilation/blob/master/jiran_rev1_via.hex) if you got revision with single color LEDs
 
-Flash this [HEX file]() it you got version with RGB LEDs
+Flash this [HEX file](https://github.com/Ladniy/VIA-Compilation/blob/master/jiran_rev2_via.hex) it you got revision with RGB LEDs
 
 After flashing you can start configure VIA:
 
