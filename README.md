@@ -29,4 +29,17 @@ After all these actions you will see default Jiran layout:
 
 Now you can configure your layout as you want.
 
-## Publishing your layout here
+## How to publish your layout here
+
+For create your own layout and publish it here you need:
+
+* Fork this repository, then create your own folder with your nickname
+* Open VIA and configure your own layout
+* Save layout in a early created folder and name it `jiran_<your_nickname>.json`
+* Make some screenshots of your layout and upload them to [imgur.com](https://imgur.com/)
+* Create and fill README.md file:
+  * Write little discription of your layout
+  * Insert screenshots there
+After all of this action you can create pull request.
+
+[Example of VIA catalog](https://github.com/Ladniy/VIA-Compilation/tree/master/Example)
