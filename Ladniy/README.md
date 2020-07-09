@@ -1,11 +1,13 @@
 # Ladniy layout
 
-Default Jiran layout for first revision with single color LEDs
+Default Jiran layout for first revision with single color LEDs.
 
-* 0 LAYER:
+## Screenshots
+
+0 LAYER:
 
 <img src="https://i.imgur.com/vx0bUAb.png"/>
 
-* 1 LAYER:
+1 LAYER:
 
 <img src="https://i.imgur.com/y103Vn9.png"/>
