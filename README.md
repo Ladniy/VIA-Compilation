@@ -40,6 +40,7 @@ For create your own layout and publish it here you need:
 * Create and fill README.md file:
   * Write little discription of your layout
   * Insert screenshots there
+
 After all of this action you can create pull request.
 
-[Example of VIA catalog](https://github.com/Ladniy/VIA-Compilation/tree/master/Example)
+[**Example of VIA catalog**](https://github.com/Ladniy/VIA-Compilation/tree/master/Example)
