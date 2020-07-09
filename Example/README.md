@@ -1,6 +1,6 @@
-# Layout by <nickname>
+# Layout by
 
-Little discription here.
+Little discription of your layout here.
 
 ## Screenshots
 
