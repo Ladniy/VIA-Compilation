@@ -4,7 +4,7 @@ This is repository of compilation files for VIA configurator. Only for [Jiran ke
 Main JSON file, that you need for VIA configurator to work:
 [Jiran Main File](https://github.com/Ladniy/VIA-Compilation/blob/master/Jiran%20Main%20File.json)
 
-[My own Jiran layout]()
+[My own Jiran layout](https://github.com/Ladniy/VIA-Compilation/tree/master/Ladniy)
 
 ## How work with VIA
 
